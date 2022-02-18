@@ -1,8 +1,8 @@
 [submodule "api"]
 	path = api
-	url = git@github.com:Ultra-Instinct-js/TaskManager-server.git
+	url = git@github.com:Ultra-Instinct-js/activity-monitor-server.git
 	branch = staging
 [submodule "client"]
 	path = client
-	url = git@github.com:Ultra-Instinct-js/TaskManager-client.git
+	url = git@github.com:Ultra-Instinct-js/activity-monitor-client.git
 	branch = staging
