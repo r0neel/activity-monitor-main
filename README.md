@@ -1,9 +1,9 @@
-# TaskManager
+# activity-monitor-main
 
 <!-- badges -->
 [![ISC license](https://img.shields.io/badge/License-ISC-blue.svg)](https://www.isc.org/licenses/)
-[![GitHub latest commit](https://img.shields.io/github/last-commit/Ultra-Instinct-js/main.svg)](https://github.com/Ultra-Instinct-js/main/commit/)
-[![GitHub forks](https://img.shields.io/github/forks/Ultra-Instinct-js/main.svg)](https://github.com/Ultra-Instinct-js/main)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/Ultra-Instinct-js/activity-monitor-main.svg)](https://github.com/Ultra-Instinct-js/activity-monitor-main/commit/)
+[![GitHub forks](https://img.shields.io/github/forks/Ultra-Instinct-js/activity-monitor-main.svg)](https://github.com/Ultra-Instinct-js/activity-monitor-main)
 
 ## Installation & Usage
 
