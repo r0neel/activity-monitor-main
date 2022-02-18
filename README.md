@@ -7,9 +7,9 @@
 
 ## Installation & Usage
 
-1. Clone the repo `git clone `
-2. Enter the directory `cd `
-3. Install dependencies `npm install`
+1. Clone this repo using `git clone git@github.com:Ultra-Instinct-js/activity-monitor-main.git`
+2. Enter the directory `cd activity-monitor-main`
+3. Initialise submodules `git submodule init && git submodule update`
    
 * `npm start` etc.
 
